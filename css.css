@@ -3,14 +3,29 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
 
 }
+
+ .header-container li{
+    display:inline-block;
+    flex-direction: column;
+    margin: 1rem;
+    background-color: aquamarine;
+    box-sizing: border-box;
+
+
+ }
+
 
 h1{
     color:khaki;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     background-color: black;
+    text-align: center;
 }
 
  . body{}
