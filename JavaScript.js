@@ -1,3 +1,6 @@
+"use strict"
+console.log(boo)
+
 
 let user = prompt("Hello you... What is your name?");
 console.log(user);
